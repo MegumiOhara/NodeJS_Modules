@@ -6,6 +6,6 @@ export const countCharacters = (str:string):number => {
     return str.length;
 };
 
-export const sliceString = (str:string):string => {
-    return str.slice();
+export const charString = (str:string):string => {
+    return str.charAt(5);
 };
