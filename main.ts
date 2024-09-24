@@ -10,7 +10,5 @@ console.log(`Sentence saved at: ${filePath}`);
 
 
 console.log( reverseString("You can gather and modify date in the database"));
-console.log( countCharacters("dynamic content"));
+console.log( countCharacters("You can gather and modify date in the database"));
 console.log( charString("NodeJS"));
-
-//Modify your countCharacters function so it ignores spaces when counting characters. 

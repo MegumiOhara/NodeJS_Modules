@@ -11,5 +11,3 @@ export const countCharacters = (str:string):number => {
 export const charString = (str:string):string => {
     return str.charAt(5);
 };
-
-console.log(countCharacters('I like dogs'));
